@@ -1,12 +1,12 @@
 .u-section-1 {background-image: url("images/sss.jpg"); background-position: 50% 50%}
 .u-section-1 .u-sheet-1 {min-height: 620px}
 .u-section-1 .u-text-1 {font-size: 3rem; margin: 148px 134px 0 38px}
-.u-section-1 .u-btn-1 {font-size: 1.875rem; margin: 107px 383px 0 auto}
-.u-section-1 .u-btn-2 {font-size: 1.875rem; margin: -67px auto 60px 160px; padding: 9px 30px 10px} 
+.u-section-1 .u-btn-1 {font-size: 1.875rem; margin: 108px 300px 0 auto; padding: 13px 30px 14px}
+.u-section-1 .u-btn-2 {font-size: 1.875rem; margin: -75px auto 60px 160px; padding: 9px 30px 10px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 511px}
 .u-section-1 .u-text-1 {margin-right: 0; margin-left: 0}
-.u-section-1 .u-btn-1 {margin-right: 183px}
+.u-section-1 .u-btn-1 {margin-right: 100px}
 .u-section-1 .u-btn-2 {margin-left: 0} }
 
 @media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 391px}
